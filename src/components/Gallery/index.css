@@ -1,0 +1,5 @@
+/* Write your code here. */
+.thumbnails {
+  display: flex;
+  flex-direction: row;
+}
